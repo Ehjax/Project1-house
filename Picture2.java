@@ -201,10 +201,28 @@ public class Picture2
     {
         if (sky != null)   // only if it's painted already...
         {
-            sky.changeColor("black");
-            ground.changeColor("white");
+            sky.changeColor("white");
+            ground.changeColor("black");
             tree1.changeColor("black");
+            tree2.changeColor("black");
+            tree3.changeColor("black");
+            tree4.changeColor("black");
+            tree5.changeColor("black");
+            tree6.changeColor("black");
+            tree7.changeColor("black");
+            tree8.changeColor("black");
+            tree9.changeColor("black");
+            blanket.changeColor("white");
+            person.changeColor("Black");
+            person2.changeColor("Black");
+            cloud1.changeColor("black");
+            cloud2.changeColor("black");
+            cloud3.changeColor("black");
+            trunk.changeColor("black");
+            trunk2.changeColor("black");
+            trunk3.changeColor("black");
             sun.changeColor("black");
+            
         }
     }
 
